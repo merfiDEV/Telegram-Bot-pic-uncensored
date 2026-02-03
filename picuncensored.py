@@ -5,7 +5,7 @@ import urllib.parse
 import hashlib
 from telebot import types
 
-TOKEN = '7147263842:AAG-atODdA1hLMyUovLcTIDv-fHLqSpWdzM'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
