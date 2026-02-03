@@ -30,14 +30,14 @@ pip install pyTelegramBotAPI requests
 
 ### 2. Настройка токена
 
-Откройте файл `xz.py` и замените значение переменной `TOKEN` на токен вашего бота от [@BotFather](https://t.me/BotFather).
+Откройте файл `picuncensored.py` и замените значение переменной `TOKEN` на токен вашего бота от [@BotFather](https://t.me/BotFather).
 
 > **Важно:** В текущей версии токен уже вписан в код, но для безопасности лучше выносить его в переменные окружения (`.env`).
 
 ### 3. Запуск
 
 ```bash
-python xz.py
+python picuncensored.py
 
 ```
 
