@@ -11,7 +11,7 @@ from aiogram.types import InlineQuery, InlineQueryResultPhoto
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = '7147263842:AAGIdrYcZ65AhXf9V2FJSckaDlmQn4eLE-I'
+TOKEN = ''
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
